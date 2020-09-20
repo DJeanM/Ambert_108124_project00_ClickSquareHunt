@@ -7,6 +7,8 @@ import random
 # y el jugador tiene que darle la cantidad de clicks que el monstruo tenga en su hp.
 #  Este juego tiene un timer y va a ver al final cuantos pudiste derrotar cuando se acabe el timer.
 
+#Esto es solo el comienzo de estructurar la aparicion random de los monstruos
+
 win=GraphWin("Click hunt",600,600)
 
 
